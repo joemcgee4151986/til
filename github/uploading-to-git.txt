@@ -1,0 +1,16 @@
+When uploadin to git, make sure there is a file in your folder called ".gitignore" It will tell github what not to upload for security reasons.  
+
+1) git init
+
+2) If you want to add all of the files then do git add .
+
+3) Once you done that, do a git commit. I've done git commit -m "insert comment here" Make sure to not be vagued with your comment especially if you're working in a team. 
+People want to know what you did.
+
+4) Once you're finished, do a git remote add origin and add the link of your git hub account. Example: git remote add origin https://github.com/joemcgee4151986/Frontpagereact.git
+You can fine the link on the green button that says code. I usually do https option.
+
+5) Finally, do a git push -u origin master  It will send your files to your github account. 
+
+
+Congrats!
