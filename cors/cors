@@ -1,1 +1,5 @@
 
+One issue when working with an api is cors. If you don't know what it is, here is a little backstory: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+When testing the api, this error would pop up and prevent you from testing it. You could disable the error but you shouldn't. What I learn was to have my partner whitelist our domain 
+and once that happened, the error disappeared and everything worked perfectly. 
