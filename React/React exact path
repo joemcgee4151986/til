@@ -1,0 +1,15 @@
+When I booted up my program on the local host, the front page would be blank. Searching for the answers online, I found some but however, they were a bit old. With the new 
+react update, things were changed. I kept looking and then I found this: https://stackoverflow.com/questions/65248705/react-router-not-showing-default-homepage-on-pageload
+
+I tried it and I was able to get it working. To get it to work, you need to install react-router-dom. Then import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+
+} from "react-router-dom";
+
+Then finally add the code  <Routes>
+        <Route exact path="/" element={<*insert your page name here />} />
+        
+        
+ 
