@@ -1,0 +1,11 @@
+ Create a dummy image:(더미이미지만들기)- Placeholder image
+ Read only: (읽기전용이다) can't modify but draggable 
+ disabled: (사용불가이다) can't modify or drag
+ Horizontal line: 수평선만들기 can be created using borders for example. 
+ Example:.hero-section { 
+    padding :  50px  0 ; 
+    text-align : center; 
+    border-bottom :  1px  solid  #000000 ; 
+} 
+
+virtual element: 가상요소 indicated by adding two consecutive colons for example ::before, ::after
