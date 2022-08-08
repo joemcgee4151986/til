@@ -1,0 +1,16 @@
+1) Page Description  (페이지 설명) At the top of your html file ex: <head>
+<meta name="description" content="페이지 설명">
+</head>
+
+2)Social Media-(소셜 미디어) - Can be used for websites to advertise . Ex: Twitter, Facebook
+
+3)Various form tags (다양한태그) The <form> tag is used to create an HTML form for user input.
+
+The <form> element can contain one or more of the following form elements -ex: <input>
+<textarea>
+<button>
+<select>
+
+4)Use- (사용) can be used such words as webfont use. web font사용
+
+5)text-decoration: none (태그 밑줄제거) Remove underline
