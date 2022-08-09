@@ -1,0 +1,9 @@
+1)opening tag(여는 태그) ex: <p>
+
+2)Closing tag (닫는 태그) ex: </p>
+
+3)content(컨텐츠) This is the content of the element, which in this example is just text. 
+
+4)empty element(빈 요소) there is not closing tag since there is no content. Ex: <img src="images/firefox-icon.png" alt="My test image">
+
+5)title(제목) Mostly used for <h1> to describe the importance
