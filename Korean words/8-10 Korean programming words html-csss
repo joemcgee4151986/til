@@ -1,0 +1,11 @@
+1)connect (연결) allows you to make a connection. Ex. <a> a stands for anchor <a href= "https://www.clickthislinkformoney.com"></a>
+
+2)Declaration (선언) <p><-selector {font-size: 111px} <-declaration
+
+3)Id selector (아이디 선택자) <p id = "잘자"> helpful when you want to modify a specific paragraph in css
+
+4)class selector  (클래스 선택자) <p class="my-class"> 와 <a class="my-class"> 를 선택 anything with "my-class" can be modify with css without doing it one at a time
+
+5)Change page color (페이지 색 바꾸기) change your background color ex: html {
+  background-color: #00539F;
+}
