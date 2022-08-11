@@ -1,0 +1,17 @@
+1)Element selectors (요소 선택자) Any HTML element of a specific type. Not in brackets ex: h1 {
+            color: white;
+        }
+        
+        p {
+            color: gold;
+        }
+        
+2)attribute selector (속성 선택자) following example selects all <a> elements with a target attribute: a[target] {
+  background-color: yellow;
+}
+
+3)Center alignment(가운데 정렬)- centering the text
+
+4)left alignment(왼쪽 정렬) aligning text to the left
+
+5)Justify(양쪽 정렬) spreads the text into equal alignment
