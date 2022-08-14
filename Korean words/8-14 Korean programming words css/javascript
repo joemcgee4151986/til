@@ -1,0 +1,11 @@
+1)JavaScript(자바스크립트) JavaScript language
+
+2)variable(변수) stores data ex: var x = 5
+
+3)Remark(주석) make comments in your code that only you can see /*
+사이에 있는 모든 것은 주석입니다.
+*/
+
+4) Operator(연산자) mathematical symbols ex: +,-, ===,x
+
+5)conditional (조건문) test whether an expression is true. Most common is if...else
