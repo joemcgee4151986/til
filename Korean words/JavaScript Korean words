@@ -1,0 +1,9 @@
+1) function (함수) Functions are a way to hold functions you want to reuse ex: let myVariable = document.querySelector('h1'); alert('hello!'); variable name, but followed by parentheses — ()
+
+2)Event  (이벤트) When JavaScript is used in HTML pages, JavaScript can "react" on these events. ex:<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+
+3)Syntax Error(구문 오류) Misspelling in the code
+
+4) Logic Error(논리 오류) Program runs but not the intended results
+
+5)number variable(숫자) You can use numbers for variables. ex:let myAge = 36
