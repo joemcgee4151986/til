@@ -1,0 +1,12 @@
+1) String(문자열) words that are in quotes. ex: let string = "hello"; 
+
+2)Quotes (따옴표) 'hello'
+
+3)Double quotes(쌍따옴표) "hello"
+
+4) concatenating strings (문자열 연결하기) ex: var one = 'Hello, ';
+var two = 'how are you?';
+var joined = one + two;
+= Hello, how are you?
+
+5)Array(배열) var shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles'];
