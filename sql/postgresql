@@ -1,0 +1,25 @@
+Here is a neat trick that allows you to insert tables into your database without much effort. 
+
+
+Open VSCODE or any code editor that you use. 
+
+Here is an example code: 
+CREATE TABLE personal (
+ first_name VARCHAR(50) NOT NULL,
+ last_name VARCHAR(50) NOT NULL,
+ gender VARCHAR(50) NOT NULL,
+ email VARCHAR(50)
+);
+insert into personal (first_name, last_name,gender,email) values('John', 'Smith', 'Male','johnsmith@yahoo.com');
+insert into personal (first_name, last_name,gender,email) values('Kate', 'Smithy', 'Female','katesmithy@gmail.com');
+
+Save it as personal.sql
+
+Next, go back to your sql shell and type \i and then the directory of personal.sql. 
+
+Example: \i /sql/personal.sql;
+
+Press enter and it will automatically create everything for you. 
+
+To check that it work, type \d and you should see it. Type select * from personal and you should see everything in the personal table. 
+
